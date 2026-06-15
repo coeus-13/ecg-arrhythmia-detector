@@ -1,0 +1,6 @@
+# IDEs
+.idea/
+__pycache__/
+
+# Datasets and generated files
+data/
